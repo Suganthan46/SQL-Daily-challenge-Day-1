@@ -1,1 +1,7 @@
-# SQL-Daily-challenge-Day-1
+
+--- Day 1 Challeges completed--
+
+
+create database hospital;
+use hospital;
+
